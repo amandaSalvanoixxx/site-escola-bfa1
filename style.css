@@ -82,3 +82,22 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.Estudante-Imagem{
+    width: 65%;
+}
+
+.Estudante-icone{
+    width: 24px;
+}
+.estudante-div{
+        text-align: center;
+    }
+   
+.Estudante-Imagem2{
+    width: 65%;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
